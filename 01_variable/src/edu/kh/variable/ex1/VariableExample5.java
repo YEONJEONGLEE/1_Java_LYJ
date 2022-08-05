@@ -46,5 +46,8 @@ public class VariableExample5 {
 		// \n : 줄 바꿈 (개행)을 나타내는 탈출(escape) 문자
 		
 		System.out.println("줄 바꼈나요?");
+		
+		
+		System.out.println("추가한 내용");
 	}
 }
